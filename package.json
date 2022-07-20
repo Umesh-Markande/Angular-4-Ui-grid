@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "^5.1.0",
     "@angular/router": "^5.1.0",
     "@angular/upgrade": "^4.4.7",
-    "angular": "^1.6.10",
+    "angular": "^1.8.3",
     "angular-ui-grid": "^4.4.7",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.6",
